@@ -176,4 +176,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Built with ❤️ by KUMAR C**
+**Built by KUMAR C**
